@@ -1,0 +1,16 @@
+# VS Code
+.vscode/
+
+# Java
+*.class
+*.log
+bin/
+
+# C++ / Compilados
+*.exe
+*.o
+build/
+
+# Sistema operativo
+Thumbs.db
+.DS_Store

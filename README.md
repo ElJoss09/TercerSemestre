@@ -7,7 +7,9 @@ Repositorio oficial para la organización de prácticas experimentales (APEs) y 
   - `Tarea1/`: Ejercicios iniciales.
   - `Tarea2/`: Prácticas intermedias.
   - `Tarea3/`: Implementación de TDAs (Listas Circulares, Problema de Josephus, Simulador Round Robin, etc.).
+  - `Tarea4/`: Implementación de Laboratorio Gestor de impresiones.
 
 ## Autor
 - **Justin Alexander Guanoquiza Aguaguiña**
-- **Asignatura:** Tercer Semestre - Software
+- **Asignatura:** Estructura de datos
+Tercer Semestre - Software
